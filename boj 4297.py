@@ -47,7 +47,6 @@ while(True):
 
     if (n == 0):
         break
-
     else:
         arr = []
         swap = 0
